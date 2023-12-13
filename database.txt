@@ -1,0 +1,8 @@
+1,A Complete Guide to Programming in C++,Ulla Kirch-Prinz,80,17
+1,Beginning C++ Through Game Programming,Michael Dawson,50,15
+1,C++ Concurrency In Action,Anthony Williams,150,66
+2,C++ Primer (5th Edition),Jose Lajoie and Stanley B. Lippman,90,40
+2,Learn To Program With C++,John Smiley,45,13
+3,Effective Modern C++,Scott Meyers,100,36
+3,The Design and Evolution of C++,Bjarne Stroustrup,47,30
+4,C++ Primer Plus (6th Edition),Stephen Prata,110,17
